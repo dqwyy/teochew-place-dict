@@ -28,4 +28,4 @@ import_tables:
 ## 联络 / Contact
 有任何问题欢迎通过Email联络 me@dqwyy.moe
 
-本仓库通过CC0协议释出至公有领域
+本仓库通过[CC0协议](https://creativecommons.org/publicdomain/zero/1.0/)释出至公有领域，欢迎将此词库转载到其他平台或上传到各输入法的词库平台，无需署名。
