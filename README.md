@@ -1,4 +1,5 @@
 # Teochew Place Dict
+***Administrative divisions namelist database for Teochew, China, i.e. Chaozhou, Shantou and Jieyang. It is designed for Chinese Input Method Engine (IME) dictionary.***
 
 ## 简介
 本仓库是为中州韵输入法引擎（Rime/小狼毫/鼠鬚管）设计的潮汕地区行政区划地名词库，词库中不包含拼音编码，故通用于所有音码输入方案。词库中的词条包含潮汕地区及其周边文化辐射地区的乡级（镇/街道）和村级（村/社区）行政区划，数据来源于[modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)和[国家统计局- 统计用区划代码和城乡划分代码](https://www.stats.gov.cn/sj/tjbz/tjyqhdmhcxhfdm/2023/index.html)，故不包括更为详细的交通道路名称、建筑物名称、商铺名称、没有村委会的自然村等。如需这些详细的地名作为词库，可参考[搜狗细胞词库](https://pinyin.sogou.com/dict/cate/index/198)、[百度输入法词库](https://shurufa.baidu.com/dict_list?cid=171)、[QQ输入法词库平台](https://cdict.qq.pinyin.cn/v1/list?sort1=%E5%9F%8E%E5%B8%82%E5%9C%B0%E5%8C%BA&sort2=%E5%B9%BF%E4%B8%9C)等输入法提供的词库，这些词库主要通过地图软件抓取，但词条可能因长久未更新而过时。
